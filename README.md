@@ -6,7 +6,7 @@
 
 - :muscle: Currently pursuing Bachelor's Degree in Computer Science.
 - :gift_heart: Compiler design is my passion.
-- :coffee: Coffee lover, turning it into code
+- :coffee: Coffee lover, turning it into code.
 - :dart: Wasting my time to save other people's time.
 
 **Some of the languages I have used**
