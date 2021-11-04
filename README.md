@@ -9,9 +9,18 @@
 - :coffee: Coffee lover, turning it into code
 - :dart: Wasting my time to save other people's time.
 
+**Languages I have used**
 
-![Shivendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sps014&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sps014&theme=radical&langs_count=4&exclude_repo=github-readme-stats,SIH-Hackathon&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=Csharp)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+
 
 
 Contact with me: <br>
