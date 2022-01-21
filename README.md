@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Low+Level+System+Designer.;I'm+a+Cross+Platform+App+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
-- :muscle: Currently pursuing Bachelor's Degree in Computer Science.
-- :gift_heart: Compiler design is my passion.
+- :muscle: Bachelor's in Computer Science & Engineering.
+- :gift_heart: I like compilers, have my own scripting language [MinLang](https://github.com/sps014/MinLang).
 - :coffee: Coffee lover, turning it into code.
 - :dart: Wasting my time to save other people's time.
 
